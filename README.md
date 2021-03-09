@@ -1,7 +1,7 @@
 ### Java & Backend Developer👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pjhsk113&show_icons=true)](https://github.com/pjhsk113/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjhsk113&layout=compact)](https://github.com/pjhsk113/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pjhsk113&show_icons=true)](https://github.com/pjhsk113)
+
 <!--
 **pjhsk113/pjhsk113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
