@@ -1,7 +1,6 @@
 ### Java & Backend Developer👋
 
 [![JangHoPark github stats](https://github-readme-stats.vercel.app/api?username=pjhsk113&count_private=true&show_icons=true)](https://github.com/pjhsk113)
-<a href="https://opgc.me/#/users/pjhsk113" target="_blank"><img src="https://api.opgc.me/githubs/users/pjhsk113/tag/?theme=basic" /></a>
 
 <!--
 **pjhsk113/pjhsk113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
